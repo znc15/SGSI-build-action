@@ -7,12 +7,12 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: 'https://bigota.d.miui.com/V12.5.7.0.QFGCNXM/miui_LAVENDER_V12.5.7.0.QFGCNXM_10b2f7da11_10.0.zip'
-  ZIP_NAME: 'miui_LAVENDER_V12.5.7.0.QFGCNXM_10b2f7da11_10.0.zip'
-  OS_TYPE: 'MIUI'
+  ROM_URL: 'http://www.kindle4jerry.tk/usr/uploads/pan/exthm-11.0-20211222-NUCLEAR-SNAPSHOT-apollon-Vanilla.zip'
+  ZIP_NAME: 'exthm-11.0-20211222-NUCLEAR-SNAPSHOT-apollon-Vanilla.zip'
+  OS_TYPE: 'Generic'
   BUILD_TYPE: 'ab'
   REPACK_NAME: 'SGSI.zip'
-  VERSION: '10'
+  VERSION: '11'
   upload_action-gh-release: 'true'
   SETUP: 'true'
   
