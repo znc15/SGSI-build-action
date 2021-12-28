@@ -7,9 +7,9 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: 'http://www.kindle4jerry.tk/usr/uploads/pan/exthm-11.0-20211222-NUCLEAR-SNAPSHOT-apollon-Vanilla.zip'
-  ZIP_NAME: 'exthm-11.0-20211222-NUCLEAR-SNAPSHOT-apollon-Vanilla.zip'
-  OS_TYPE: 'Generic'
+  ROM_URL: 'https://bigota.d.miui.com/21.12.27/miui_LIME_21.12.27_dfc4100c1a_11.0.zip'
+  ZIP_NAME: 'miui_LIME_21.12.27_dfc4100c1a_11.0.zi'
+  OS_TYPE: 'MIUI'
   BUILD_TYPE: 'ab'
   REPACK_NAME: 'SGSI.zip'
   VERSION: '11'
