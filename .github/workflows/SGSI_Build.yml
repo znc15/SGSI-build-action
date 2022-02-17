@@ -7,8 +7,8 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: 'https://bigota.d.miui.com/21.12.27/miui_LIME_21.12.27_dfc4100c1a_11.0.zip'
-  ZIP_NAME: 'miui_LIME_21.12.27_dfc4100c1a_11.0.zi'
+  ROM_URL: 'https://bigota.d.miui.com/22.2.16/miui_GAUGUINPRE_22.2.16_7c942d30cd_12.0.zip'
+  ZIP_NAME: 'miui_GAUGUINPRE_22.2.16_7c942d30cd_12.0.zip'
   OS_TYPE: 'MIUI'
   BUILD_TYPE: 'ab'
   REPACK_NAME: 'SGSI.zip'
